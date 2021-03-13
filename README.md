@@ -1,4 +1,5 @@
-<div aling='center'>
+<div align='center'>
+ 
 
 # Concrete Class
 <i>In order for this to work you will have to have Entity Framework installed on your IDE</i>
