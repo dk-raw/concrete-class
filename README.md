@@ -14,7 +14,7 @@ Navigate to: ```Visual Studio > Tools > NuGet Pckg Manager > Console```
 #### Step 2
 Type: ```enable-migrations```
 #### Step 3
-Type: ```add-migration MyMigration```
+Type: ```add-migration MyMigration``` where <i>MyMigration</i> is the name
 #### Step 4
 Type: ```update-database```
 
