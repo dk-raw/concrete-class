@@ -20,5 +20,19 @@ Type: ```update-database```
 
 <hr/>
 
+### Console Output:
+```Type an employee's name``` <br />
+then the console waits for a user input and saves that to the Database
+after one keypress it prints every entry in the Database.
+### Example:
+```Type an employee's name``` <br/>
+```> John Doe``` <b>user input</b> <br/>
+``` John Doe ``` <br/>
+```David Evans``` <br/>
+```Jackie Chan ``` <br/>
+where <i>John Doe</i> is the latest entry and <i>David Evans</i> , <i>Jackie Chan</i> are previous entries in the Database
+
+<hr />
+
 ##### Note:
 <i>if you haven't noticed already, I made a little big mistake naming the class <b>Employees</b> istead of <b>Employee</b> but anyways, I hope this helps.</i>
